@@ -31,12 +31,14 @@
       "release": true,
       "assets": [
         "*.exe",
-        "*.blockmap"
+        "*.blockmap",
+        "*.yml"
       ],
-      "draft": true
+      "draft": false
     },
     "npm": {
       "publish": false
     }
   }
 }
+
