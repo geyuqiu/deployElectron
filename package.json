@@ -25,14 +25,14 @@
     "git": {
       "commit": true,
       "tag": true,
-      "push": true
+      "push": true,
+      "requireCleanWorkingDir": false
     },
     "github": {
       "release": true,
       "assets": [
         "*.exe",
-        "*.blockmap",
-        "*.yml"
+        "*.blockmap"
       ],
       "draft": false
     },
