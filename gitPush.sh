@@ -4,7 +4,7 @@ echo "git diff --color | cat"
 git diff --color | cat
 
 echo "git add -v ."
-git add latest.yml
+git add latest.yml package.json
 
 echo "git commit -m "
 git commit -m "$1"
