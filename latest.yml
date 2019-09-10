@@ -1,9 +1,9 @@
 version: 0.0.4
 files:
   - url: electron-boilerplate-setup-0.0.4.exe
-    sha512: rdB7441/nGFi//gv4gmpUyLrV3CXUaWnRjSKkuasZlPeVc+z0ioBEzTqAupC2NH1+MC4LWq/QNmm5SuI8un3eA==
-    size: 50142918
+    sha512: btfcyuTaG3MdOjjF0H5ouyrcgAdKKlJLgZ/boaG3/LU4TeZm8ANdPWxujfZeGQ65wBQa+0cDq8KtCnZ+sNiHYw==
+    size: 50142573
 path: electron-boilerplate-setup-0.0.4.exe
-sha512: rdB7441/nGFi//gv4gmpUyLrV3CXUaWnRjSKkuasZlPeVc+z0ioBEzTqAupC2NH1+MC4LWq/QNmm5SuI8un3eA==
-sha2: 96e7e2d375fa765b36282b122be0047e32c9e1adfdb724cfa7b5759eb051a29b
-releaseDate: '2019-09-09T22:43:39.796Z'
+sha512: btfcyuTaG3MdOjjF0H5ouyrcgAdKKlJLgZ/boaG3/LU4TeZm8ANdPWxujfZeGQ65wBQa+0cDq8KtCnZ+sNiHYw==
+sha2: b1b36a415082afe80224352b1cf6298e5b83c1cc7b38aaa78d74465aed8c49ee
+releaseDate: '2019-09-10T07:45:41.437Z'
