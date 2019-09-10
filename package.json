@@ -24,7 +24,6 @@
   "release-it": {
     "git": {
       "commit": true,
-      "tag": true,
       "tagName": "v${version}",
       "push": true,
       "requireCleanWorkingDir": false
