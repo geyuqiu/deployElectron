@@ -1,9 +1,9 @@
-version: 1.2.7
+version: 1.3.0
 files:
-  - url: electron-boilerplate-setup-1.2.7.exe
-    sha512: J8LXSrrKaBTp1g++Yw66IMgmW40o+qNs/pm4StT1Q4INXJOlhhfBMJ51Cs5q+4Ynx09zxWtw5ZAfXAIVCG//9Q==
-    size: 50142452
-path: electron-boilerplate-setup-1.2.7.exe
-sha512: J8LXSrrKaBTp1g++Yw66IMgmW40o+qNs/pm4StT1Q4INXJOlhhfBMJ51Cs5q+4Ynx09zxWtw5ZAfXAIVCG//9Q==
-sha2: f662b01dea149114214d1e7144a181ee4943f3cdd2264ffcbdc82bd01ff76cf4
-releaseDate: '2019-09-10T08:15:52.529Z'
+  - url: electron-boilerplate-setup-1.3.0.exe
+    sha512: 1rIIaofTuK/9sOT6jqfqbLJOe8A7Fu7OnbBk9Wog9C1Z+XufzPmJIX5RgpxS/YlIDkeCALy+M/8/i/vS6RIKRQ==
+    size: 50142691
+path: electron-boilerplate-setup-1.3.0.exe
+sha512: 1rIIaofTuK/9sOT6jqfqbLJOe8A7Fu7OnbBk9Wog9C1Z+XufzPmJIX5RgpxS/YlIDkeCALy+M/8/i/vS6RIKRQ==
+sha2: c9e9f577b11d04fc4eedf72128e34786bed6b9a3efb9491997fa7bbefd0f9bf3
+releaseDate: '2019-09-10T08:20:54.119Z'
